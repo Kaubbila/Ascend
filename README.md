@@ -31,22 +31,27 @@ The application utilizes Firebase Database to securely save and fetch user data,
 <summary>
   Screenshots
 </summary> <br />
-
+<p align="center">Login, Statistics, Creating habit and task, Settings</p>
 <p align="center">
-  
+  <img width="300" alt="search-functionality" src="https://github.com/Kaubbila/Ascend/assets/76628873/b5f9e0af-307f-4df4-af6b-9c42110e91ba">
   <img width="300" alt="search-functionality" src="https://github.com/Kaubbila/Ascend/assets/76628873/b4178f97-d403-462d-ab8e-cf0004416390">
-  <img width="300" alt="news-page" src="https://github.com/Kaubbila/Ascend/assets/76628873/5adf247b-e303-49a1-9eda-52e6020bacb3">
 </p>
 
 <p align="center">
   <img width="300" alt="profile-page" src="https://github.com/Kaubbila/Ascend/assets/76628873/f39a4bfd-0905-4d90-80e7-9b3763be0341">
-  <img width="300" alt="group-page" src="https://github.com/Kaubbila/Ascend/assets/76628873/493fa5ad-b130-4a76-8257-db4088875f16">
+  <img width="300" alt="group-page" src="https://github.com/Kaubbila/Ascend/assets/76628873/493fa5ad-b130-4a76-8257-db4088875f16"> </br>
+  <img width="300" alt="news-page" src="https://github.com/Kaubbila/Ascend/assets/76628873/5adf247b-e303-49a1-9eda-52e6020bacb3">
 </p>
-
-<p align="center">Statistics, Settings, Login, Creating habit and task</p>
 
 </details>
 
+The application was made in collaboration with:
 
+<p align="left">
+  <a href="https://github.com/Plufin"><img src="https://github.com/Plufin.png" title="Plufin" width=100 height=100 /></a>
+  <a href="https://github.com/Kismakk"><img src="https://github.com/Kismakk.png" title="Kismakk" width=100 height=100 /></a>
+  <a href="https://github.com/Deforested"><img src="https://github.com/Deforested.png" title="Deforested" width=100 height=100 /></a>
+  <a href="https://github.com/laralaamanen"><img src="https://github.com/laralaamanen.png" title="laralaamanen" width=100 height=100 /></a>
+</p>
 
 
