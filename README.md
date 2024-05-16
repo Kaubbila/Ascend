@@ -26,6 +26,7 @@ Ascend is an React-Native application for tracking your tasks and daily habits a
 Whether you're focused on self-improvement or simply keeping your life organized, Ascend provides the tools you need to succeed.
 
 The application utilizes Firebase Database to securely save and fetch user data, ensuring your information is always up-to-date.
+>This application is a school project made for Mobile Development Project -course in Oulu University of Applied Sciences
 
 <details close>
 <summary>
