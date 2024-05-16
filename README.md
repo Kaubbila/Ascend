@@ -27,7 +27,7 @@ Whether you're focused on self-improvement or simply keeping your life organized
 
 The application utilizes Firebase Database to securely save and fetch user data, ensuring your information is always up-to-date.
 
-<details open>
+<details close>
 <summary>
   Screenshots
 </summary> <br />
